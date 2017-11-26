@@ -4,6 +4,7 @@ CONTEXT_CLOSE=Close
 CONTEXT_SETTINGS=Settings
 ERROR_404DRIVE=Drive {0} was not found. Your actual installation directory is set now to {1}
 ERROR_404NFSW=Failed to find NFSW.exe. Make sure you have "Need for Speed™: World" installed on your PC.
+ERROR_HASHMISMATCHNFSW=Your NFSW.exe is modified. Please, redownload the game.
 ERROR_INVALIDCREDS=Invalid e-mail or password.
 ERROR_NOPERMISSION=Failed to write the test file. Make sure you're running the launcher with administrative privileges.
 ERROR_REGISTER_MAILCORRECT=Please enter your correct e-mail
