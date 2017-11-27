@@ -19,6 +19,7 @@ ERROR_REGISTER_PASSWORDVERIFY=Please confirm your password
 ERROR_REGISTER_TICKET=Please enter your ticket
 ERROR_REGISTER_TOS=You have not agreed to the Terms of Service
 ERROR_SERVEROFFLINE=Server seems to be offline.
+ERROR_TAMPERING=Launcher tampering detected. Please use original build.
 INSTALL_INFO=Click OK to select folder with NFSW.exe
 MAIN_BUILTINSERVERINIT=Soapbox server launched. Waiting for queries.
 MAIN_CANCEL=Cancel
