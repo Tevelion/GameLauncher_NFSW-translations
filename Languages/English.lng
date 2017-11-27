@@ -1,3 +1,7 @@
+BANNED_INFO=You got banned on {0}
+BANNED_REASON=Reason: {0}
+BANNED_EXPIRETIME=Ban expires {0}
+BANNED_EXPIRENEVER=Banned forever.
 CONTEXT_ABOUT=About
 CONTEXT_CHECKUPDATE=Check for updates
 CONTEXT_CLOSE=Close
@@ -34,6 +38,7 @@ MAIN_INFORMATION=Enter your account information to Log In:
 MAIN_INFORMATIONREG=Register on {0}
 MAIN_INFORMATIONSETTINGS=Please select your game settings:
 MAIN_LAUNCH=Launch
+MAIN_LAUNCHERRESTART=Launcher needs to restart to set new settings.
 MAIN_LOADINGGAME=Loading game. Launcher will minimize in {0} seconds.
 MAIN_LOGIN=Login
 MAIN_LOGOUT=Log out
