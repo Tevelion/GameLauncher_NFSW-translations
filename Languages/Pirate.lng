@@ -1,4 +1,4 @@
-BANNED_INFO=ye got banned on {0} 
+BANNED_INFO=Ye got banned on {0} 
 BANNED_REASON=Reason: {0} 
 BANNED_EXPIRETIME=Ban expires {0} 
 BANNED_EXPIRENEVER=Banned forever. 
