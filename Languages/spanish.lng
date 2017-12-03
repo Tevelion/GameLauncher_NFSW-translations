@@ -1,0 +1,6 @@
+- BANNED_INFO=Has sido baneado en {0}
+- BANNED_REASON=Motivo: {0}
+- BANNED_EXPIRETIME=El ban expira en {0}
+- BANNED_EXPIRENEVER=Baneado para siempre.
+- ERROR_TAMPERING=Launcher modificado detectado. Por favor, usa el launcher original.
+- MAIN_LAUNCHERRESTART=El launcher necesita reiniciarse para aplicar los nuevos ajustes.
