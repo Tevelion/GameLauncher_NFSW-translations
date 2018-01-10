@@ -3,6 +3,7 @@ BANNED_REASON=Powód: {0}
 BANNED_EXPIRETIME=Ban wygasa {0}
 BANNED_EXPIRENEVER=Zbanowany na zawsze.
 CONTEXT_ABOUT=O launcherze
+CONTEXT_ADDSERVER=Dodaj serwer
 CONTEXT_CHECKUPDATE=Sprawdź aktualizacje
 CONTEXT_CLOSE=Zamknij
 CONTEXT_SETTINGS=Ustawienia
